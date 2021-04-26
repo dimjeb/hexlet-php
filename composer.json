@@ -1,0 +1,11 @@
+{
+    "name": "dim/hexlet-php",
+    "description": "My first test project",
+    "authors": [
+        {
+            "name": "Dmitriy Zhebrovskiy",
+            "email": "dimjeb@gmail.com"
+        }
+    ],
+    "require": {}
+}
